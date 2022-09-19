@@ -1,3 +1,56 @@
-h1 {
-    color: green
+body {
+    background-color: azure;
+    border: 75px ridge rgb(1, 173, 52);
+    line-height: 1.4;
 }
+
+h1 {
+    color: green;
+    font-size: 72px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    background-color: rgb(203, 255, 218);
+    font-size: 42px;
+    color: green;
+    border: 2px dotted greenyellow;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    background-color: #faffef;
+}
+
+#center {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+    
+.bold {
+font-weight: bold;
+font-size: 20px;
+}
+
+.font {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#line {
+    text-decoration: line-through;
+}
+
+#under {
+    text-decoration: underline green;
+}
+
+.border {
+    border: 4px dashed green;
+    background-color: #faffef;
+    margin-right: 1150px;
+    margin-left: 50px;
+}
+
